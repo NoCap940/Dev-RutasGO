@@ -9,7 +9,7 @@ export default {
     name: 'TestComponent',
     data() {
         return {
-            message: 'Aqui vamos a comenzar el proyecto "RutasGO, hola lui"'
+            message: 'Aqui vamos a comenzar el proyecto "RutasGO"'
         }
     }
 }
