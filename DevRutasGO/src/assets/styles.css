@@ -7,6 +7,10 @@ header {
   margin: 0 auto 2rem;
 }
 
+.test-component {
+    text-align: center;
+}
+
 @media (min-width: 1024px) {
   header {
     display: flex;
